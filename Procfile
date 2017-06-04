@@ -1,1 +1,1 @@
-worker: token=xoxb-182428294992-IkCCITpopQGFb0JVOhXnycAM node node_modules/botkit/slack_bot.js
+worker: token="token" node node_modules/botkit/slack_bot.js

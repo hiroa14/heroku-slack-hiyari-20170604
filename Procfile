@@ -1,1 +1,1 @@
-worker: token="token" node node_modules/botkit/slack_bot.js
+worker: node node_modules/botkit/slack_bot.js
